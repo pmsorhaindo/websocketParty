@@ -1,0 +1,8 @@
+{
+  "name": "websocketParty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pmsorhaindo/websocketParty.git",
+  "author": "Michael Sorhaindo <michael@exmachina.nl>",
+  "license": "MIT"
+}
